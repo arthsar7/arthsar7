@@ -8,8 +8,7 @@
    
 ## 👁️ Contacts
 - [arthur⚡](t.me/arthsar7) Telegram <a href="t.me/arthsar7"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width=32/> </a>
-
-- [Артур](https://vk.com/arthsar7) Vkontakte <a href="[t.me/arthsar7](https://vk.com/arthsar7)"><img src="https://www.svgrepo.com/show/343532/vk-communication-internet-network-chat-interaction.svg" width=32/> </a>
+width=32/> </a>
 ## 👨‍💻 About me
 - 🔭 I am a student of RTU MIREA in the field of Computer Science and Computer Engineering (Information Technology Infrastructure).
 
