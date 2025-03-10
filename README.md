@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Arthur</a> 
-<h3 align="center">Information Technology student, mobile developer </h3>
+<h3 align="center">Mobile developer </h3>
 
 ## ⚙️ Skills
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" width="64" />   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="64" />   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="64" /> 
