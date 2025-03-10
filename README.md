@@ -8,6 +8,4 @@
 ## 👁️ Contacts
 - [arthur⚡](t.me/arthsar7) Telegram <a href="t.me/arthsar7"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width=32/> </a>
 ## 👨‍💻 About me
-- 🔭 I am a student of RTU MIREA in the field of Computer Science and Computer Engineering (Information Technology Infrastructure).
-
-- 🌱 Completed the Samsung IT Academy course in the specialty "Mobile development in Java"
+I am an Android Developer with 3+ years of experience
