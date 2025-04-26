@@ -8,4 +8,4 @@
 ## 👁️ Contacts
 - [arthur⚡](t.me/arthsar7) Telegram <a href="t.me/arthsar7"><img src="https://www.svgrepo.com/show/354443/telegram.svg" width=32/> </a>
 ## 👨‍💻 About me
-I am an Android Developer with 3+ years of experience
+I am an Android Developer with 4+ years of experience
